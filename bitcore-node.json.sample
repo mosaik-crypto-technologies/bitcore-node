@@ -27,7 +27,7 @@
         "pass": "local",
         "host": "localhost",
         "protocol": "http",
-        "port": 18332
+        "port": 8337
       }
     }
   }
