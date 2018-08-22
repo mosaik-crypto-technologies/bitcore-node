@@ -1,0 +1,3 @@
+This folder will contain a service that manages the total supply and balance per address.
+
+Important functions are .onBlock() and .onReorg()
